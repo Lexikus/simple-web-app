@@ -9,19 +9,19 @@ Are you seeking a simple web application without any framework, library or compl
 npm install
 
 // watches file changes and it runs a simple server with hot reloading
-npm watch
+npm run watch
 
 // builds in production mode with tree shaking, code splitting and a bunch of different optimization
-npm build
+npm run build
 
 // builds in development mode without tree shaking and any optimization for fast builds
-npm build:dev
+npm run build:dev
 
 // runs all unit tests with jest
-npm test
+npm run test
 
 // lints the code based on the tslint
-npm lint
+npm run lint
 ```
 
 ## Folder structure
